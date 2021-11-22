@@ -34,7 +34,7 @@ For reference, it will look something like this:
 
 2. Link of the repository you created on your account.
 
-## Task-2 : Create a Simple DSC Website using Techstack.
+## Task-2 : Create a Simple DSC Website using any Techstack.
 
 This task is meant for second year students. You can also use any other technologies other than HTML and CSS.
 
