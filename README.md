@@ -30,7 +30,7 @@ You will be given a Form. Submit the following:
 
 For reference, it will look something like this:
 
-<img src="https://drive.google.com/file/d/13BT4gbtzw5F9mk_9y8AsRrN1Ql4tV3b9/view?usp=sharing" style="height : 100px;width:100px;"/>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20200421153825/git10.jpg"/>
 
 2. Link of the repository you created on your account.
 
