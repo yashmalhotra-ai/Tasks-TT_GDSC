@@ -27,6 +27,11 @@ This task is meant for First year students.
 You will be given a Form. Submit the following:
 
 1. Screenshot of Git command Window which shows that you have run all the commands to perform clone, commit and push operations.
+
+For reference, it will look something like this:
+
+<img src="https://drive.google.com/file/d/13BT4gbtzw5F9mk_9y8AsRrN1Ql4tV3b9/view?usp=sharing" style="height : 100px;width:100px;"/>
+
 2. Link of the repository you created on your account.
 
 ## Task-2 : Create a Simple DSC Website using HTML and CSS.
