@@ -17,5 +17,3 @@ TASK-2 (website link) https://yashmalhotra-ai.github.io/Tasks-TT_GDSC/
 
 ![DSCSITE](https://user-images.githubusercontent.com/83369979/143282663-e5954307-4a91-49a0-911c-32a025b488f7.PNG)
 ![DSCSITE2](https://user-images.githubusercontent![DSCSITE3](https://user-images.githubusercontent.com/83369979/143282804-4bdb9309-801a-44f6-bfe9-0622d981e927.PNG)
-.com/83369979/143282775-515e70a7-e7a5-48e8-82db-b7b4c2ba01b0.PNG)
-
