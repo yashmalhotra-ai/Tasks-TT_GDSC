@@ -14,3 +14,4 @@ I’m interested in getting placed in reputed product based company . No plans f
 
 
 TASK-2 (website link) https://yashmalhotra-ai.github.io/Tasks-TT_GDSC/ 
+![DSCSITE](https://user-images.githubusercontent.com/83369979/143282663-e5954307-4a91-49a0-911c-32a025b488f7.PNG)
