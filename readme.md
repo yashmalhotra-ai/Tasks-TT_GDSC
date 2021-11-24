@@ -3,7 +3,7 @@ I have completed my 10 and 10+2 from Kendriya Vidalaya A.G.C.R Colony Delhi CBSE
 
 My strength:-
 
-I'm a quick learner who can work solo as well as in team work .My decision making is decent. I have learnt different computer language C, C++, C#, Python Basics. I’m pretty good at Data structure and learning new concept of DS.I follow daily task routine so that I can get much more from myself which also helps me to keep myself self-motivated. I’m Machine learning Artificial intelligence Enthusiast and for Back-up I’m doing .Net Core MVC. Currently I’m Pursing Specialization in Mathematics for Machine learning from couresra ( course 1 is about to end) to kick start my Future prospective as AI/ML Engineer or ML.Net using C#. I’m Helpful guy during my coaching session i used to clear their doubt and to make them clear about their problem where they faced. Through this I also got chance to learn something new.
+I'm a quick learner who can work solo as well as in team work .My decision making is decent. I have learnt different computer language C, C++, C#, Python Basics. I’m pretty good at Data structure and learning new concept of DS.I follow daily task routine so that I can get much more from myself which also helps me to keep myself self-motivated. I’m Machine learning Artificial intelligence Enthusiast and for Back-up I’m doing .Net Core MVC. Currently I’m Pursing Specialization in Mathematics for Machine learning from couresra ( course 1 is about to end) to kick start my Future prospective as AI/ML Engineer or ML.Net using C#. I’m Helpful guy during my coaching session i used to clear their doubt and  make them clear about their problem where they faced. Through this I also got chance to learn something new.
 
 My weaknesses:-
 
